@@ -1,0 +1,2 @@
+# MyNewMavenProject
+mavenProject
